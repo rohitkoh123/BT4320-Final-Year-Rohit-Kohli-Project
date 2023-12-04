@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.imagesize{
+    height: 160px;
+    width: 220px;
+}
+
+.doctor{
+    height:50%;
+    width: 50%;
+    position: relative;
+    bottom: 100px;
+    top: 0;
+}
+.one{
+    height: 50%;
+    width:50%;
+}
